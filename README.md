@@ -1,5 +1,7 @@
 #RISC-V 
 
+view the readme in the code format (else suffer ;) )
+
 Table Opcodes
 Instruction	Signals to ALU
 Inst 	Name 	                         Opcode 	Funct3 	Funct7 	br 	ALUsel 	ALUop 
