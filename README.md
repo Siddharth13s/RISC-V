@@ -2,6 +2,8 @@
 
 view the README.md file in the code format (else suffer ;) )
 
+View the PPT for simulated output waveform.
+
 Table Opcodes
 Instruction	Signals to ALU
 Inst 	Name 	                         Opcode 	Funct3 	Funct7 	br 	ALUsel 	ALUop 
