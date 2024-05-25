@@ -1,6 +1,6 @@
 #RISC-V 
 
-view the readme in the code format (else suffer ;) )
+view the README.md file in the code format (else suffer ;) )
 
 Table Opcodes
 Instruction	Signals to ALU
