@@ -1,9 +1,14 @@
+
 #RISC-V 
 view the README.md file in the code format (else suffer ;) )
 
 View the PPT for simulated output waveform.
 
 It is a fully working RISC-V 5 stage pipeline with full hazard control model with functional for every instruction given below. 
+
+view the README.md file in the code format (else suffer ;) )
+
+View the PPT for simulated output waveform.
 
 Table Opcodes
 Instruction	Signals to ALU
